@@ -1,4 +1,5 @@
 imports:
+    - { resource: easyadmin.yml }
     - { resource: fos_user.yml }
     - { resource: parameters.yml }
     - { resource: security.yml }
